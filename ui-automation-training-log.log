@@ -1211,3 +1211,13 @@
 2020-07-17 11:40:51 INFO  TestBase:32 - Browser Initiated
 2020-07-17 11:40:51 INFO  TestBase:37 - successful Login
 2020-07-17 11:40:51 INFO  TestBase:49 - Test name: plantequipmentSmokeTest
+2020-07-17 16:50:06 INFO  TestBase:25 - Initiate Browser
+2020-07-17 16:50:21 INFO  TestBase:32 - Browser Initiated
+2020-07-17 16:50:22 INFO  TestBase:37 - successful Login
+2020-07-17 16:50:22 INFO  TestBase:49 - Test name: FinishProductSample
+2020-07-17 16:50:48 INFO  TestBase:61 - Executed test case name:FinishProductSample Execution Results : [TestResult name=FinishProductSample status=SUCCESS method=FinishProductSample.FinishProductSample()[pri:1, instance:samples.FinishProductSample@131276c2] output={null}]
+2020-07-17 16:51:08 INFO  TestBase:25 - Initiate Browser
+2020-07-17 16:51:25 INFO  TestBase:32 - Browser Initiated
+2020-07-17 16:51:25 INFO  TestBase:37 - successful Login
+2020-07-17 16:51:25 INFO  TestBase:49 - Test name: SampleIssue
+2020-07-17 16:51:43 INFO  TestBase:61 - Executed test case name:SampleIssue Execution Results : [TestResult name=SampleIssue status=SUCCESS method=FinishProductSampleIssue.SampleIssue()[pri:0, instance:samples.FinishProductSampleIssue@711f39f9] output={null}]
